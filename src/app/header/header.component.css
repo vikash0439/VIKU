@@ -1,0 +1,11 @@
+.nav-item{
+    margin: 5px;
+    list-style: none;
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+ul li a{
+    color: antiquewhite;
+}

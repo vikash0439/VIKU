@@ -1,0 +1,51 @@
+[13032:6504:2020-7-2 13:29:7.896] Main Start
+[13032:6504:2020-7-2 13:29:7.897] Command line:"F:\angular\VIKU\src\assets\images\Zoom_cm_ftouksoyku5ws4Z9vvrZo4_m4U49MlcH9lX8wAGxP55UUuVN6XvtOP5RjOrH@CEUDQ+slLAAABgzw_kfe789040e4bca4dc_.exe"  Instance:0xAB0000 Show State:1
+[13032:6504:2020-7-2 13:29:8.17] F:\
+[13032:10464:2020-7-2 13:29:8.24] [process_requst] start, url:https://bureauveritas.zoom.us/conf/launch
+[13032:10464:2020-7-2 13:29:11.826] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[13032:10464:2020-7-2 13:29:11.826] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[13032:10464:2020-7-2 13:29:11.843] [log_response_content] Content length (1048576 as unknown):1319 , Total read: 1319 , Error No: 0 , Status code: 200
+[13032:10464:2020-7-2 13:29:11.843] [log_response_content] header:
+[13032:10464:2020-7-2 13:29:11.843] HTTP/1.1 200 
+Date: Thu, 02 Jul 2020 07:59:11 GMT
+Content-Type: text/plain;charset=utf-8
+Content-Length: 1319
+Connection: keep-alive
+Server: ZOOM
+x-zm-trackingid: WEB_bf4f3c096f760c5c426bf0a1cbe10450
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us https://d17o6on0vd932d.cloudfront.net blob: 'self'; script-src 'unsafe-eval' 'unsafe-inline' blob: about: https://ruanshi2.8686c.com https://ajax.aspnetcdn.com/ajax/3.5/MicrosoftAjax.js https://appsforoffice.microsoft.com https://assets.zendesk.com https://autocomplete.demandbase.com https://cdn.wootric.com https://cdncache-a.akamaihd.net https://connect.facebook.net https://consent.trustarc.com https://d.adroll.mgr.consensu.org https://d2b9h3rz4xo53c.cloudfront.net https://d24cgw3uvb9a9h.cloudfront.net https://googleads.g.doubleclick.net https://pi.pardot.com https://s.dcbap.com https://s.ytimg.com https://s3.amazonaws.com https://scout-cdn.salesloft.com https://sealserver.trustwave.com https://secure-cdn.mplxtms.com https://serve2.cheqzone.com https://snap.licdn.com https://sp.analytics.yahoo.com https://static.zdassets.com https://static2.sharepointonline.com https://tag.demandbase.com https://tpc.googlesyndication.com https://tracking.g2crowd.com https://trk.techtarget.com https://www.comeet.co https://www.dropbox.com https://www.google-analytics.com https://www.googleadservices.com/pagead/conversion_async.js https://www.googletagmanager.com/gtm.js https://www.gstatic.com/recaptcha/releases/ https://google.com https://docs.google.com https://cse.google.com https://maps.google.com https://www.google.com https://linkedin.com https://platform.linkedin.com https://px.ads.linkedin.com https://ads.linkedin.com https://www.youtube.com https://d17o6on0vd932d.cloudfront.net https://*.ada.support https://*.adroll.com https://*.hotjar.com https://*.zoom.us https://*.zoomcloudpbx.com https://*.zoomus.cn https://*.zopim.com https://adroll.com https://zoom.us https://apis.google.com https://gstatic.zoom.com.cn 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: 'self'; object-src 'none'; base-uri 'none';
+X-FRAME-OPTIONS: SAMEORIGIN
+Set-Cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=698CEE0A457CC3A08A98F5C24D956CA3; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=aw1_c_Sa74MesdQ-qO0VqB6heTiQ; Domain=.zoom.us; Path=/; Secure; HttpOnly
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+Set-Cookie: _zm_ssid=aw1_c_hFkxVdYOTA-per1_kaQXjA; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=k1YdHzfcSpOOLdb-4RX7ng.1593676751884.7fda3e68a9a36e22399db74f887f7011; Domain=.zoom.us; Expires=Thu, 02-Jul-2020 09:59:11 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=34; Domain=.zoom.us; Expires=Thu, 02-Jul-2020 09:59:11 GMT; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=31536000
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+
+
+[13032:10464:2020-7-2 13:29:11.844] [process_requst] End for url:https://bureauveritas.zoom.us/conf/launch, return code:200, Error:0, Response content size:1319
+[13032:6504:2020-7-2 13:29:11.956] [client_has_installed_app] found path:
+[13032:6504:2020-7-2 13:29:11.956]  ***NULL-POINTER-PLACEHOLDER***
+[13032:6504:2020-7-2 13:29:11.957] [param_query_local_path] path is: C:\Users\Unique\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 1 system error: 183
+[13032:6504:2020-7-2 13:29:11.957] [downloader_run] State:0
+[13032:12916:2020-7-2 13:29:11.958] [process_requst] start, url:https://bureauveritas.zoom.us/client/latest/Installer.exe
+[13032:6504:2020-7-2 13:29:11.962] [client_has_installed_app] found path:
+[13032:6504:2020-7-2 13:29:11.963]  ***NULL-POINTER-PLACEHOLDER***
+[13032:12916:2020-7-2 13:29:14.274] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[13032:12916:2020-7-2 13:29:14.274] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[13032:12916:2020-7-2 13:29:15.189] [read_response_file] Status Code:200, content length: 718680, total read: 718680, error code: 0
+[13032:12916:2020-7-2 13:29:15.419] [process_requst] End for url:https://bureauveritas.zoom.us/client/latest/Installer.exe, return code:200, Error:0, Response content size:0
+[13032:6504:2020-7-2 13:29:15.444] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 200 Error: 0 Response is Empty. 
+[13032:12916:2020-7-2 13:29:15.995] [process_requst] start, url:https://bureauveritas.zoom.us/client/latest/Zoom.msi
+[13032:12916:2020-7-2 13:29:17.796] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[13032:12916:2020-7-2 13:29:17.796] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[13032:6504:2020-7-2 13:29:25.72] [downloader_cancel] State:1
+[13032:12916:2020-7-2 13:29:25.90] [read_response_file] Status Code:200, content length: 12373420, total read: 5423104, error code: 1011
+[13032:12916:2020-7-2 13:29:25.230] [process_requst] End for url:https://bureauveritas.zoom.us/client/latest/Zoom.msi, return code:200, Error:1011, Response content size:0
+[13032:6504:2020-7-2 13:29:25.281] Main End
